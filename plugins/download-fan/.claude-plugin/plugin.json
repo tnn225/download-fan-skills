@@ -1,0 +1,9 @@
+{
+  "name": "download-fan",
+  "description": "Save TikTok videos without the watermark, plus MP3 and slideshows, through download.fan, and find its free converters, PDF tools and calculators.",
+  "version": "1.0.0",
+  "author": { "name": "download.fan", "email": "contact@download.fan", "url": "https://download.fan" },
+  "homepage": "https://download.fan/mcp-server",
+  "license": "MIT",
+  "keywords": ["tiktok", "download", "video", "mp3", "converter"]
+}

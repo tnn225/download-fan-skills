@@ -1,0 +1,11 @@
+{
+  "name": "download-fan",
+  "owner": { "name": "download.fan", "email": "contact@download.fan" },
+  "plugins": [
+    {
+      "name": "download-fan",
+      "source": "./plugins/download-fan",
+      "description": "Save TikTok videos without the watermark, plus MP3 and slideshows, through download.fan, and find its free converters, PDF tools and calculators."
+    }
+  ]
+}
