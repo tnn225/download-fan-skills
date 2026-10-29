@@ -11,7 +11,7 @@ If the `get_download_page` tool from the download.fan MCP server is available, c
 
 ## Build the link
 
-1. Pull the TikTok URL out of whatever the user pasted. Share text often wraps it, e.g. "Check this out! https://vm.tiktok.com/ZMabc123/". Short links (`vm.tiktok.com`, `vt.tiktok.com`) work as they are, so you don't need to resolve them.
+1. Pull the TikTok URL out of whatever the user pasted. Share text often wraps it, e.g. "Check this out! https://vm.tiktok.com/…/". Short links (`vm.tiktok.com`, `vt.tiktok.com`) work as they are, so you don't need to resolve them.
 2. Pick the page:
 
    | The user wants | Page |
