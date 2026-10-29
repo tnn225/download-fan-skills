@@ -1,6 +1,12 @@
 {
   "name": "download-fan",
-  "owner": { "name": "download.fan", "email": "contact@download.fan" },
+  "owner": {
+    "name": "download.fan",
+    "email": "contact@download.fan"
+  },
+  "metadata": {
+    "description": "Claude skills and the MCP server for download.fan: free video downloads, converters, PDF tools and calculators."
+  },
   "plugins": [
     {
       "name": "download-fan",
