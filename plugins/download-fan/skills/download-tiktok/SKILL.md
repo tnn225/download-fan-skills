@@ -24,10 +24,10 @@ If the `get_download_page` tool from the download.fan MCP server is available, c
 
 4. Show it as a Markdown link with the link text from the table, never as the raw encoded URL.
 
-Example: `https://www.tiktok.com/@user/video/7300000000000000000` becomes
+Example: `https://www.tiktok.com/@scout2015/video/6718335390845095173` becomes
 
 ```markdown
-[Download TikTok video](https://download.fan/download-tiktok-video?url=https%3A%2F%2Fwww.tiktok.com%2F%40user%2Fvideo%2F7300000000000000000)
+[Download TikTok video](https://download.fan/download-tiktok-video?url=https%3A%2F%2Fwww.tiktok.com%2F%40scout2015%2Fvideo%2F6718335390845095173)
 ```
 
 If the user hasn't shared a link yet, link the page without `?url=` (same link text) and these steps: in TikTok, tap **Share** → **Copy link**, paste it into the box on the page, and press **Download**.
