@@ -23,7 +23,7 @@ The plugin also connects the [download.fan MCP server](https://download.fan/mcp-
 
 Paste a TikTok link and ask Claude to save it:
 
-> Download this without the watermark: https://www.tiktok.com/@scout2015/video/6718335390845095173
+> Save this TikTok: https://www.tiktok.com/@scout2015/video/6718335390845095173
 
 Claude replies with a download.fan link that opens with the video loaded.
 
